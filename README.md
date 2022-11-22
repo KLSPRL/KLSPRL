@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KLSPRL
 - 👀 I’m interested in Web Development, Java, Web3
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Web Development & .NET  
 - 📫 How to reach me klaus.prelle@gmail.com
 
 <!---
